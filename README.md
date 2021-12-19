@@ -1,4 +1,4 @@
-# Ambulance3
+# Signal Free Corridor for emergency vehicles
 Signal Free Corridor for ambulances and emergency vehicles to avoid traffic.
 
 Components:
